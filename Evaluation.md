@@ -418,7 +418,7 @@ python ./scripts/plot/ablation.py <results_folder>
 python ./scripts/plot/adaption.py <results_folder>
 ```
 
-After executing the scripts, the figures will be stored in `<results_folder>/figures`. Besides, you can directly read the time and storage overhead in `<results_folder>/overhead/time.csv` and ``<results_folder>/overhead/size.csv`.
+After executing the scripts, the figures will be stored in `<results_folder>/figures`. Besides, you can directly read the time and storage overhead in `<results_folder>/overhead/time.csv` and `<results_folder>/overhead/size.csv`.
 
 #### Expected Results
 
