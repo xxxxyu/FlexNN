@@ -1,6 +1,6 @@
 # FlexNN
 
-This repository contains the code and artifact evaluation guide for *"FlexNN: Efficient and Adaptive DNN Inference on Memory-Constrained Edge Devices"* (**ACM MobiCom 2024**). [[ABS]](https://dl.acm.org/doi/abs/10.1145/3636534.3649391) [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3636534.3649391)
+This repository contains the code and artifact evaluation guide for *"FlexNN: Efficient and Adaptive DNN Inference on Memory-Constrained Edge Devices"* (**ACM MobiCom 2024**). [[paper]](https://dl.acm.org/doi/abs/10.1145/3636534.3649391) [[slides]](assets/FlexNN-MobiCom.pdf)
 
 ![paper-title](<assets/paper-title.png>)
 
